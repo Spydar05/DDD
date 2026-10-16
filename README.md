@@ -82,14 +82,14 @@ A **round** is one full circle around the group. From your turn back to your tur
 > **Consent comes first.**  
 > Nobody has to answer a question, complete a dare, drink, or keep playing.
 
-## Other ways to play
+## Ways to Play
 
-You do not have to use the website to play DDD.
+The website isn't the only way to play DDD.
 
 | Option | Link |
 |---|---|
 | Play using the website | [DDD Web App](https://spydar05.github.io/DDD/) |
-| Use physical cards | [DDD card deck on Amazon](https://www.amazon.com/dp/B01H4CZQ14?th=1) |
+| Use physical cards | [Blank Cards on Amazon](https://www.amazon.com/dp/B01H4CZQ14?th=1) |
 | Randomize categories | [Wheel of Names](https://wheelofnames.com/rcm-25e) |
 | Randomize individual cards | [Random.org](https://www.random.org/integers/) |
 
