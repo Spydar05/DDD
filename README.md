@@ -19,7 +19,7 @@
 
 **DDD: Don’t Dare Drink** is a party game where you learn about your friends while drinking.
 
-Every card tells you what to do on the top, or how much to drink to get out of it—called a **punishment**—on the bottom.
+Every card tells you what to do on the top, or how much to drink to get out of it, called a **punishment**, on the bottom.
 
 Punishments are given in **sips**.
 
@@ -67,7 +67,7 @@ DDD includes cards across several categories:
    - Draw a new card.
    - Wait for your next turn.
 
-A **round** is one full circle around the group—from your turn back to your turn again.
+A **round** is one full circle around the group. From your turn back to your turn again.
 
 ## 📜 Important rules
 
